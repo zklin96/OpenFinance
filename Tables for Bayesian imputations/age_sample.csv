@@ -1,0 +1,451 @@
+region,SOC_label,age group,Observation
+North East,"Managers, directors and senior officials",Aged 24 years and under,3151
+North East,"Managers, directors and senior officials",Aged 25 to 34 years,18271
+North East,"Managers, directors and senior officials",Aged 35 to 49 years,44913
+North East,"Managers, directors and senior officials",Aged 50 to 64 years,40347
+North East,"Managers, directors and senior officials",Aged 65 years and over,5864
+North East,Professional occupations,Aged 24 years and under,12769
+North East,Professional occupations,Aged 25 to 34 years,56196
+North East,Professional occupations,Aged 35 to 49 years,80264
+North East,Professional occupations,Aged 50 to 64 years,52739
+North East,Professional occupations,Aged 65 years and over,5348
+North East,Associate professional and technical,Aged 24 years and under,14376
+North East,Associate professional and technical,Aged 25 to 34 years,36004
+North East,Associate professional and technical,Aged 35 to 49 years,48714
+North East,Associate professional and technical,Aged 50 to 64 years,35923
+North East,Associate professional and technical,Aged 65 years and over,3446
+North East,Administrative and secretarial,Aged 24 years and under,10391
+North East,Administrative and secretarial,Aged 25 to 34 years,21638
+North East,Administrative and secretarial,Aged 35 to 49 years,35099
+North East,Administrative and secretarial,Aged 50 to 64 years,39607
+North East,Administrative and secretarial,Aged 65 years and over,4541
+North East,Skilled trades,Aged 24 years and under,13546
+North East,Skilled trades,Aged 25 to 34 years,24704
+North East,Skilled trades,Aged 35 to 49 years,37039
+North East,Skilled trades,Aged 50 to 64 years,39886
+North East,Skilled trades,Aged 65 years and over,5766
+North East,"Caring, leisure and other services",Aged 24 years and under,14766
+North East,"Caring, leisure and other services",Aged 25 to 34 years,26539
+North East,"Caring, leisure and other services",Aged 35 to 49 years,34914
+North East,"Caring, leisure and other services",Aged 50 to 64 years,39604
+North East,"Caring, leisure and other services",Aged 65 years and over,4300
+North East,Sales and customer services,Aged 24 years and under,22309
+North East,Sales and customer services,Aged 25 to 34 years,25282
+North East,Sales and customer services,Aged 35 to 49 years,27392
+North East,Sales and customer services,Aged 50 to 64 years,28852
+North East,Sales and customer services,Aged 65 years and over,3641
+North East,"Process, plant and machine operatives",Aged 24 years and under,5979
+North East,"Process, plant and machine operatives",Aged 25 to 34 years,16026
+North East,"Process, plant and machine operatives",Aged 35 to 49 years,29080
+North East,"Process, plant and machine operatives",Aged 50 to 64 years,38263
+North East,"Process, plant and machine operatives",Aged 65 years and over,4582
+North East,Elementary occupations,Aged 24 years and under,22709
+North East,Elementary occupations,Aged 25 to 34 years,23330
+North East,Elementary occupations,Aged 35 to 49 years,32314
+North East,Elementary occupations,Aged 50 to 64 years,41903
+North East,Elementary occupations,Aged 65 years and over,5723
+North West,"Managers, directors and senior officials",Aged 24 years and under,10445
+North West,"Managers, directors and senior officials",Aged 25 to 34 years,66805
+North West,"Managers, directors and senior officials",Aged 35 to 49 years,151422
+North West,"Managers, directors and senior officials",Aged 50 to 64 years,133024
+North West,"Managers, directors and senior officials",Aged 65 years and over,20141
+North West,Professional occupations,Aged 24 years and under,40395
+North West,Professional occupations,Aged 25 to 34 years,179351
+North West,Professional occupations,Aged 35 to 49 years,244792
+North West,Professional occupations,Aged 50 to 64 years,161570
+North West,Professional occupations,Aged 65 years and over,16835
+North West,Associate professional and technical,Aged 24 years and under,44413
+North West,Associate professional and technical,Aged 25 to 34 years,119214
+North West,Associate professional and technical,Aged 35 to 49 years,144744
+North West,Associate professional and technical,Aged 50 to 64 years,103159
+North West,Associate professional and technical,Aged 65 years and over,10498
+North West,Administrative and secretarial,Aged 24 years and under,31959
+North West,Administrative and secretarial,Aged 25 to 34 years,68575
+North West,Administrative and secretarial,Aged 35 to 49 years,99302
+North West,Administrative and secretarial,Aged 50 to 64 years,108675
+North West,Administrative and secretarial,Aged 65 years and over,14532
+North West,Skilled trades,Aged 24 years and under,38445
+North West,Skilled trades,Aged 25 to 34 years,70562
+North West,Skilled trades,Aged 35 to 49 years,104074
+North West,Skilled trades,Aged 50 to 64 years,105156
+North West,Skilled trades,Aged 65 years and over,16580
+North West,"Caring, leisure and other services",Aged 24 years and under,43642
+North West,"Caring, leisure and other services",Aged 25 to 34 years,75953
+North West,"Caring, leisure and other services",Aged 35 to 49 years,100640
+North West,"Caring, leisure and other services",Aged 50 to 64 years,102227
+North West,"Caring, leisure and other services",Aged 65 years and over,12467
+North West,Sales and customer services,Aged 24 years and under,67104
+North West,Sales and customer services,Aged 25 to 34 years,66646
+North West,Sales and customer services,Aged 35 to 49 years,68096
+North West,Sales and customer services,Aged 50 to 64 years,69313
+North West,Sales and customer services,Aged 65 years and over,10836
+North West,"Process, plant and machine operatives",Aged 24 years and under,14220
+North West,"Process, plant and machine operatives",Aged 25 to 34 years,43768
+North West,"Process, plant and machine operatives",Aged 35 to 49 years,82477
+North West,"Process, plant and machine operatives",Aged 50 to 64 years,99842
+North West,"Process, plant and machine operatives",Aged 65 years and over,13263
+North West,Elementary occupations,Aged 24 years and under,70009
+North West,Elementary occupations,Aged 25 to 34 years,74945
+North West,Elementary occupations,Aged 35 to 49 years,98648
+North West,Elementary occupations,Aged 50 to 64 years,106833
+North West,Elementary occupations,Aged 65 years and over,16149
+Yorkshire & Humber,"Managers, directors and senior officials",Aged 24 years and under,7616
+Yorkshire & Humber,"Managers, directors and senior officials",Aged 25 to 34 years,46450
+Yorkshire & Humber,"Managers, directors and senior officials",Aged 35 to 49 years,108300
+Yorkshire & Humber,"Managers, directors and senior officials",Aged 50 to 64 years,98522
+Yorkshire & Humber,"Managers, directors and senior officials",Aged 65 years and over,14630
+Yorkshire & Humber,Professional occupations,Aged 24 years and under,28290
+Yorkshire & Humber,Professional occupations,Aged 25 to 34 years,122618
+Yorkshire & Humber,Professional occupations,Aged 35 to 49 years,171041
+Yorkshire & Humber,Professional occupations,Aged 50 to 64 years,111614
+Yorkshire & Humber,Professional occupations,Aged 65 years and over,11590
+Yorkshire & Humber,Associate professional and technical,Aged 24 years and under,34263
+Yorkshire & Humber,Associate professional and technical,Aged 25 to 34 years,82728
+Yorkshire & Humber,Associate professional and technical,Aged 35 to 49 years,102957
+Yorkshire & Humber,Associate professional and technical,Aged 50 to 64 years,74668
+Yorkshire & Humber,Associate professional and technical,Aged 65 years and over,7598
+Yorkshire & Humber,Administrative and secretarial,Aged 24 years and under,22367
+Yorkshire & Humber,Administrative and secretarial,Aged 25 to 34 years,46390
+Yorkshire & Humber,Administrative and secretarial,Aged 35 to 49 years,68402
+Yorkshire & Humber,Administrative and secretarial,Aged 50 to 64 years,75555
+Yorkshire & Humber,Administrative and secretarial,Aged 65 years and over,9886
+Yorkshire & Humber,Skilled trades,Aged 24 years and under,31669
+Yorkshire & Humber,Skilled trades,Aged 25 to 34 years,57607
+Yorkshire & Humber,Skilled trades,Aged 35 to 49 years,84104
+Yorkshire & Humber,Skilled trades,Aged 50 to 64 years,86102
+Yorkshire & Humber,Skilled trades,Aged 65 years and over,13309
+Yorkshire & Humber,"Caring, leisure and other services",Aged 24 years and under,32735
+Yorkshire & Humber,"Caring, leisure and other services",Aged 25 to 34 years,54379
+Yorkshire & Humber,"Caring, leisure and other services",Aged 35 to 49 years,71568
+Yorkshire & Humber,"Caring, leisure and other services",Aged 50 to 64 years,72736
+Yorkshire & Humber,"Caring, leisure and other services",Aged 65 years and over,8256
+Yorkshire & Humber,Sales and customer services,Aged 24 years and under,48200
+Yorkshire & Humber,Sales and customer services,Aged 25 to 34 years,47544
+Yorkshire & Humber,Sales and customer services,Aged 35 to 49 years,48955
+Yorkshire & Humber,Sales and customer services,Aged 50 to 64 years,52289
+Yorkshire & Humber,Sales and customer services,Aged 65 years and over,7834
+Yorkshire & Humber,"Process, plant and machine operatives",Aged 24 years and under,13370
+Yorkshire & Humber,"Process, plant and machine operatives",Aged 25 to 34 years,38056
+Yorkshire & Humber,"Process, plant and machine operatives",Aged 35 to 49 years,67325
+Yorkshire & Humber,"Process, plant and machine operatives",Aged 50 to 64 years,78328
+Yorkshire & Humber,"Process, plant and machine operatives",Aged 65 years and over,9987
+Yorkshire & Humber,Elementary occupations,Aged 24 years and under,54763
+Yorkshire & Humber,Elementary occupations,Aged 25 to 34 years,60801
+Yorkshire & Humber,Elementary occupations,Aged 35 to 49 years,79078
+Yorkshire & Humber,Elementary occupations,Aged 50 to 64 years,85697
+Yorkshire & Humber,Elementary occupations,Aged 65 years and over,11196
+East Midlands,"Managers, directors and senior officials",Aged 24 years and under,7613
+East Midlands,"Managers, directors and senior officials",Aged 25 to 34 years,44446
+East Midlands,"Managers, directors and senior officials",Aged 35 to 49 years,106034
+East Midlands,"Managers, directors and senior officials",Aged 50 to 64 years,98774
+East Midlands,"Managers, directors and senior officials",Aged 65 years and over,15173
+East Midlands,Professional occupations,Aged 24 years and under,22844
+East Midlands,Professional occupations,Aged 25 to 34 years,103506
+East Midlands,Professional occupations,Aged 35 to 49 years,152899
+East Midlands,Professional occupations,Aged 50 to 64 years,106688
+East Midlands,Professional occupations,Aged 65 years and over,11334
+East Midlands,Associate professional and technical,Aged 24 years and under,29133
+East Midlands,Associate professional and technical,Aged 25 to 34 years,71513
+East Midlands,Associate professional and technical,Aged 35 to 49 years,93841
+East Midlands,Associate professional and technical,Aged 50 to 64 years,69234
+East Midlands,Associate professional and technical,Aged 65 years and over,7456
+East Midlands,Administrative and secretarial,Aged 24 years and under,18886
+East Midlands,Administrative and secretarial,Aged 25 to 34 years,41662
+East Midlands,Administrative and secretarial,Aged 35 to 49 years,63685
+East Midlands,Administrative and secretarial,Aged 50 to 64 years,72095
+East Midlands,Administrative and secretarial,Aged 65 years and over,9960
+East Midlands,Skilled trades,Aged 24 years and under,28050
+East Midlands,Skilled trades,Aged 25 to 34 years,51223
+East Midlands,Skilled trades,Aged 35 to 49 years,75565
+East Midlands,Skilled trades,Aged 50 to 64 years,78089
+East Midlands,Skilled trades,Aged 65 years and over,13177
+East Midlands,"Caring, leisure and other services",Aged 24 years and under,29922
+East Midlands,"Caring, leisure and other services",Aged 25 to 34 years,47740
+East Midlands,"Caring, leisure and other services",Aged 35 to 49 years,65641
+East Midlands,"Caring, leisure and other services",Aged 50 to 64 years,64818
+East Midlands,"Caring, leisure and other services",Aged 65 years and over,7363
+East Midlands,Sales and customer services,Aged 24 years and under,41227
+East Midlands,Sales and customer services,Aged 25 to 34 years,39208
+East Midlands,Sales and customer services,Aged 35 to 49 years,42039
+East Midlands,Sales and customer services,Aged 50 to 64 years,45176
+East Midlands,Sales and customer services,Aged 65 years and over,7258
+East Midlands,"Process, plant and machine operatives",Aged 24 years and under,13480
+East Midlands,"Process, plant and machine operatives",Aged 25 to 34 years,39149
+East Midlands,"Process, plant and machine operatives",Aged 35 to 49 years,66564
+East Midlands,"Process, plant and machine operatives",Aged 50 to 64 years,72770
+East Midlands,"Process, plant and machine operatives",Aged 65 years and over,9682
+East Midlands,Elementary occupations,Aged 24 years and under,55183
+East Midlands,Elementary occupations,Aged 25 to 34 years,60555
+East Midlands,Elementary occupations,Aged 35 to 49 years,79980
+East Midlands,Elementary occupations,Aged 50 to 64 years,80534
+East Midlands,Elementary occupations,Aged 65 years and over,11151
+West Midlands,"Managers, directors and senior officials",Aged 24 years and under,8608
+West Midlands,"Managers, directors and senior officials",Aged 25 to 34 years,51015
+West Midlands,"Managers, directors and senior officials",Aged 35 to 49 years,118397
+West Midlands,"Managers, directors and senior officials",Aged 50 to 64 years,107681
+West Midlands,"Managers, directors and senior officials",Aged 65 years and over,18366
+West Midlands,Professional occupations,Aged 24 years and under,30640
+West Midlands,Professional occupations,Aged 25 to 34 years,131246
+West Midlands,Professional occupations,Aged 35 to 49 years,184714
+West Midlands,Professional occupations,Aged 50 to 64 years,123853
+West Midlands,Professional occupations,Aged 65 years and over,14126
+West Midlands,Associate professional and technical,Aged 24 years and under,33373
+West Midlands,Associate professional and technical,Aged 25 to 34 years,84150
+West Midlands,Associate professional and technical,Aged 35 to 49 years,106968
+West Midlands,Associate professional and technical,Aged 50 to 64 years,78157
+West Midlands,Associate professional and technical,Aged 65 years and over,8869
+West Midlands,Administrative and secretarial,Aged 24 years and under,23511
+West Midlands,Administrative and secretarial,Aged 25 to 34 years,50683
+West Midlands,Administrative and secretarial,Aged 35 to 49 years,75848
+West Midlands,Administrative and secretarial,Aged 50 to 64 years,85185
+West Midlands,Administrative and secretarial,Aged 65 years and over,12073
+West Midlands,Skilled trades,Aged 24 years and under,29629
+West Midlands,Skilled trades,Aged 25 to 34 years,58376
+West Midlands,Skilled trades,Aged 35 to 49 years,86937
+West Midlands,Skilled trades,Aged 50 to 64 years,92111
+West Midlands,Skilled trades,Aged 65 years and over,16435
+West Midlands,"Caring, leisure and other services",Aged 24 years and under,34668
+West Midlands,"Caring, leisure and other services",Aged 25 to 34 years,56024
+West Midlands,"Caring, leisure and other services",Aged 35 to 49 years,76952
+West Midlands,"Caring, leisure and other services",Aged 50 to 64 years,75511
+West Midlands,"Caring, leisure and other services",Aged 65 years and over,9070
+West Midlands,Sales and customer services,Aged 24 years and under,47815
+West Midlands,Sales and customer services,Aged 25 to 34 years,48794
+West Midlands,Sales and customer services,Aged 35 to 49 years,50463
+West Midlands,Sales and customer services,Aged 50 to 64 years,50843
+West Midlands,Sales and customer services,Aged 65 years and over,8327
+West Midlands,"Process, plant and machine operatives",Aged 24 years and under,13703
+West Midlands,"Process, plant and machine operatives",Aged 25 to 34 years,42813
+West Midlands,"Process, plant and machine operatives",Aged 35 to 49 years,76275
+West Midlands,"Process, plant and machine operatives",Aged 50 to 64 years,81361
+West Midlands,"Process, plant and machine operatives",Aged 65 years and over,11581
+West Midlands,Elementary occupations,Aged 24 years and under,59451
+West Midlands,Elementary occupations,Aged 25 to 34 years,67679
+West Midlands,Elementary occupations,Aged 35 to 49 years,91883
+West Midlands,Elementary occupations,Aged 50 to 64 years,91043
+West Midlands,Elementary occupations,Aged 65 years and over,13680
+East,"Managers, directors and senior officials",Aged 24 years and under,10453
+East,"Managers, directors and senior officials",Aged 25 to 34 years,67476
+East,"Managers, directors and senior officials",Aged 35 to 49 years,166501
+East,"Managers, directors and senior officials",Aged 50 to 64 years,144546
+East,"Managers, directors and senior officials",Aged 65 years and over,24939
+East,Professional occupations,Aged 24 years and under,32359
+East,Professional occupations,Aged 25 to 34 years,152346
+East,Professional occupations,Aged 35 to 49 years,233697
+East,Professional occupations,Aged 50 to 64 years,154755
+East,Professional occupations,Aged 65 years and over,20206
+East,Associate professional and technical,Aged 24 years and under,43231
+East,Associate professional and technical,Aged 25 to 34 years,108536
+East,Associate professional and technical,Aged 35 to 49 years,140962
+East,Associate professional and technical,Aged 50 to 64 years,97850
+East,Associate professional and technical,Aged 65 years and over,12441
+East,Administrative and secretarial,Aged 24 years and under,28327
+East,Administrative and secretarial,Aged 25 to 34 years,59202
+East,Administrative and secretarial,Aged 35 to 49 years,92265
+East,Administrative and secretarial,Aged 50 to 64 years,101081
+East,Administrative and secretarial,Aged 65 years and over,16435
+East,Skilled trades,Aged 24 years and under,34586
+East,Skilled trades,Aged 25 to 34 years,69411
+East,Skilled trades,Aged 35 to 49 years,100996
+East,Skilled trades,Aged 50 to 64 years,100534
+East,Skilled trades,Aged 65 years and over,18095
+East,"Caring, leisure and other services",Aged 24 years and under,36785
+East,"Caring, leisure and other services",Aged 25 to 34 years,58881
+East,"Caring, leisure and other services",Aged 35 to 49 years,86479
+East,"Caring, leisure and other services",Aged 50 to 64 years,81781
+East,"Caring, leisure and other services",Aged 65 years and over,10877
+East,Sales and customer services,Aged 24 years and under,52751
+East,Sales and customer services,Aged 25 to 34 years,45808
+East,Sales and customer services,Aged 35 to 49 years,50053
+East,Sales and customer services,Aged 50 to 64 years,54287
+East,Sales and customer services,Aged 65 years and over,10003
+East,"Process, plant and machine operatives",Aged 24 years and under,13224
+East,"Process, plant and machine operatives",Aged 25 to 34 years,38962
+East,"Process, plant and machine operatives",Aged 35 to 49 years,68814
+East,"Process, plant and machine operatives",Aged 50 to 64 years,75798
+East,"Process, plant and machine operatives",Aged 65 years and over,12446
+East,Elementary occupations,Aged 24 years and under,57899
+East,Elementary occupations,Aged 25 to 34 years,61582
+East,Elementary occupations,Aged 35 to 49 years,85191
+East,Elementary occupations,Aged 50 to 64 years,82351
+East,Elementary occupations,Aged 65 years and over,13442
+London,"Managers, directors and senior officials",Aged 24 years and under,14861
+London,"Managers, directors and senior officials",Aged 25 to 34 years,156268
+London,"Managers, directors and senior officials",Aged 35 to 49 years,283163
+London,"Managers, directors and senior officials",Aged 50 to 64 years,154338
+London,"Managers, directors and senior officials",Aged 65 years and over,25776
+London,Professional occupations,Aged 24 years and under,72561
+London,Professional occupations,Aged 25 to 34 years,412995
+London,Professional occupations,Aged 35 to 49 years,403329
+London,Professional occupations,Aged 50 to 64 years,202747
+London,Professional occupations,Aged 65 years and over,31766
+London,Associate professional and technical,Aged 24 years and under,65674
+London,Associate professional and technical,Aged 25 to 34 years,252395
+London,Associate professional and technical,Aged 35 to 49 years,217895
+London,Associate professional and technical,Aged 50 to 64 years,115884
+London,Associate professional and technical,Aged 65 years and over,17030
+London,Administrative and secretarial,Aged 24 years and under,36922
+London,Administrative and secretarial,Aged 25 to 34 years,99307
+London,Administrative and secretarial,Aged 35 to 49 years,116854
+London,Administrative and secretarial,Aged 50 to 64 years,100438
+London,Administrative and secretarial,Aged 65 years and over,16814
+London,Skilled trades,Aged 24 years and under,26013
+London,Skilled trades,Aged 25 to 34 years,80347
+London,Skilled trades,Aged 35 to 49 years,123326
+London,Skilled trades,Aged 50 to 64 years,86713
+London,Skilled trades,Aged 65 years and over,11643
+London,"Caring, leisure and other services",Aged 24 years and under,35821
+London,"Caring, leisure and other services",Aged 25 to 34 years,71037
+London,"Caring, leisure and other services",Aged 35 to 49 years,116154
+London,"Caring, leisure and other services",Aged 50 to 64 years,100764
+London,"Caring, leisure and other services",Aged 65 years and over,12316
+London,Sales and customer services,Aged 24 years and under,61206
+London,Sales and customer services,Aged 25 to 34 years,74011
+London,Sales and customer services,Aged 35 to 49 years,77381
+London,Sales and customer services,Aged 50 to 64 years,55028
+London,Sales and customer services,Aged 65 years and over,9234
+London,"Process, plant and machine operatives",Aged 24 years and under,12370
+London,"Process, plant and machine operatives",Aged 25 to 34 years,41578
+London,"Process, plant and machine operatives",Aged 35 to 49 years,82701
+London,"Process, plant and machine operatives",Aged 50 to 64 years,73351
+London,"Process, plant and machine operatives",Aged 65 years and over,9351
+London,Elementary occupations,Aged 24 years and under,55520
+London,Elementary occupations,Aged 25 to 34 years,88986
+London,Elementary occupations,Aged 35 to 49 years,133832
+London,Elementary occupations,Aged 50 to 64 years,109691
+London,Elementary occupations,Aged 65 years and over,14689
+South East,"Managers, directors and senior officials",Aged 24 years and under,15921
+South East,"Managers, directors and senior officials",Aged 25 to 34 years,98695
+South East,"Managers, directors and senior officials",Aged 35 to 49 years,270843
+South East,"Managers, directors and senior officials",Aged 50 to 64 years,239597
+South East,"Managers, directors and senior officials",Aged 65 years and over,40367
+South East,Professional occupations,Aged 24 years and under,47619
+South East,Professional occupations,Aged 25 to 34 years,227861
+South East,Professional occupations,Aged 35 to 49 years,381255
+South East,Professional occupations,Aged 50 to 64 years,257348
+South East,Professional occupations,Aged 65 years and over,34830
+South East,Associate professional and technical,Aged 24 years and under,64069
+South East,Associate professional and technical,Aged 25 to 34 years,164950
+South East,Associate professional and technical,Aged 35 to 49 years,227497
+South East,Associate professional and technical,Aged 50 to 64 years,159714
+South East,Associate professional and technical,Aged 65 years and over,21322
+South East,Administrative and secretarial,Aged 24 years and under,36066
+South East,Administrative and secretarial,Aged 25 to 34 years,79678
+South East,Administrative and secretarial,Aged 35 to 49 years,129404
+South East,Administrative and secretarial,Aged 50 to 64 years,148169
+South East,Administrative and secretarial,Aged 65 years and over,24838
+South East,Skilled trades,Aged 24 years and under,47610
+South East,Skilled trades,Aged 25 to 34 years,97188
+South East,Skilled trades,Aged 35 to 49 years,138508
+South East,Skilled trades,Aged 50 to 64 years,139347
+South East,Skilled trades,Aged 65 years and over,24664
+South East,"Caring, leisure and other services",Aged 24 years and under,55089
+South East,"Caring, leisure and other services",Aged 25 to 34 years,86674
+South East,"Caring, leisure and other services",Aged 35 to 49 years,127258
+South East,"Caring, leisure and other services",Aged 50 to 64 years,120977
+South East,"Caring, leisure and other services",Aged 65 years and over,16894
+South East,Sales and customer services,Aged 24 years and under,82058
+South East,Sales and customer services,Aged 25 to 34 years,64654
+South East,Sales and customer services,Aged 35 to 49 years,69587
+South East,Sales and customer services,Aged 50 to 64 years,73977
+South East,Sales and customer services,Aged 65 years and over,14719
+South East,"Process, plant and machine operatives",Aged 24 years and under,16449
+South East,"Process, plant and machine operatives",Aged 25 to 34 years,46121
+South East,"Process, plant and machine operatives",Aged 35 to 49 years,80316
+South East,"Process, plant and machine operatives",Aged 50 to 64 years,89694
+South East,"Process, plant and machine operatives",Aged 65 years and over,15782
+South East,Elementary occupations,Aged 24 years and under,81111
+South East,Elementary occupations,Aged 25 to 34 years,79081
+South East,Elementary occupations,Aged 35 to 49 years,108020
+South East,Elementary occupations,Aged 50 to 64 years,108074
+South East,Elementary occupations,Aged 65 years and over,17881
+South West,"Managers, directors and senior officials",Aged 24 years and under,9603
+South West,"Managers, directors and senior officials",Aged 25 to 34 years,53783
+South West,"Managers, directors and senior officials",Aged 35 to 49 years,129427
+South West,"Managers, directors and senior officials",Aged 50 to 64 years,126663
+South West,"Managers, directors and senior officials",Aged 65 years and over,24692
+South West,Professional occupations,Aged 24 years and under,27246
+South West,Professional occupations,Aged 25 to 34 years,128155
+South West,Professional occupations,Aged 35 to 49 years,196515
+South West,Professional occupations,Aged 50 to 64 years,142831
+South West,Professional occupations,Aged 65 years and over,18958
+South West,Associate professional and technical,Aged 24 years and under,35270
+South West,Associate professional and technical,Aged 25 to 34 years,87554
+South West,Associate professional and technical,Aged 35 to 49 years,117889
+South West,Associate professional and technical,Aged 50 to 64 years,91206
+South West,Associate professional and technical,Aged 65 years and over,12981
+South West,Administrative and secretarial,Aged 24 years and under,21615
+South West,Administrative and secretarial,Aged 25 to 34 years,48163
+South West,Administrative and secretarial,Aged 35 to 49 years,76305
+South West,Administrative and secretarial,Aged 50 to 64 years,89744
+South West,Administrative and secretarial,Aged 65 years and over,14430
+South West,Skilled trades,Aged 24 years and under,35758
+South West,Skilled trades,Aged 25 to 34 years,68092
+South West,Skilled trades,Aged 35 to 49 years,96649
+South West,Skilled trades,Aged 50 to 64 years,103713
+South West,Skilled trades,Aged 65 years and over,21804
+South West,"Caring, leisure and other services",Aged 24 years and under,36952
+South West,"Caring, leisure and other services",Aged 25 to 34 years,58343
+South West,"Caring, leisure and other services",Aged 35 to 49 years,77974
+South West,"Caring, leisure and other services",Aged 50 to 64 years,81881
+South West,"Caring, leisure and other services",Aged 65 years and over,11775
+South West,Sales and customer services,Aged 24 years and under,50954
+South West,Sales and customer services,Aged 25 to 34 years,41783
+South West,Sales and customer services,Aged 35 to 49 years,43614
+South West,Sales and customer services,Aged 50 to 64 years,54657
+South West,Sales and customer services,Aged 65 years and over,11346
+South West,"Process, plant and machine operatives",Aged 24 years and under,12546
+South West,"Process, plant and machine operatives",Aged 25 to 34 years,31349
+South West,"Process, plant and machine operatives",Aged 35 to 49 years,52348
+South West,"Process, plant and machine operatives",Aged 50 to 64 years,65759
+South West,"Process, plant and machine operatives",Aged 65 years and over,11762
+South West,Elementary occupations,Aged 24 years and under,58472
+South West,Elementary occupations,Aged 25 to 34 years,52598
+South West,Elementary occupations,Aged 35 to 49 years,68846
+South West,Elementary occupations,Aged 50 to 64 years,77209
+South West,Elementary occupations,Aged 65 years and over,13119
+Wales,"Managers, directors and senior officials",Aged 24 years and under,4056
+Wales,"Managers, directors and senior officials",Aged 25 to 34 years,23125
+Wales,"Managers, directors and senior officials",Aged 35 to 49 years,54371
+Wales,"Managers, directors and senior officials",Aged 50 to 64 years,52456
+Wales,"Managers, directors and senior officials",Aged 65 years and over,9931
+Wales,Professional occupations,Aged 24 years and under,12991
+Wales,Professional occupations,Aged 25 to 34 years,62003
+Wales,Professional occupations,Aged 35 to 49 years,95878
+Wales,Professional occupations,Aged 50 to 64 years,70030
+Wales,Professional occupations,Aged 65 years and over,8564
+Wales,Associate professional and technical,Aged 24 years and under,14602
+Wales,Associate professional and technical,Aged 25 to 34 years,42130
+Wales,Associate professional and technical,Aged 35 to 49 years,56778
+Wales,Associate professional and technical,Aged 50 to 64 years,42507
+Wales,Associate professional and technical,Aged 65 years and over,5256
+Wales,Administrative and secretarial,Aged 24 years and under,10011
+Wales,Administrative and secretarial,Aged 25 to 34 years,25753
+Wales,Administrative and secretarial,Aged 35 to 49 years,40240
+Wales,Administrative and secretarial,Aged 50 to 64 years,45369
+Wales,Administrative and secretarial,Aged 65 years and over,6744
+Wales,Skilled trades,Aged 24 years and under,18164
+Wales,Skilled trades,Aged 25 to 34 years,33705
+Wales,Skilled trades,Aged 35 to 49 years,49098
+Wales,Skilled trades,Aged 50 to 64 years,53079
+Wales,Skilled trades,Aged 65 years and over,12567
+Wales,"Caring, leisure and other services",Aged 24 years and under,20568
+Wales,"Caring, leisure and other services",Aged 25 to 34 years,35873
+Wales,"Caring, leisure and other services",Aged 35 to 49 years,44418
+Wales,"Caring, leisure and other services",Aged 50 to 64 years,46171
+Wales,"Caring, leisure and other services",Aged 65 years and over,5999
+Wales,Sales and customer services,Aged 24 years and under,26638
+Wales,Sales and customer services,Aged 25 to 34 years,26425
+Wales,Sales and customer services,Aged 35 to 49 years,26373
+Wales,Sales and customer services,Aged 50 to 64 years,29938
+Wales,Sales and customer services,Aged 65 years and over,5184
+Wales,"Process, plant and machine operatives",Aged 24 years and under,7961
+Wales,"Process, plant and machine operatives",Aged 25 to 34 years,19259
+Wales,"Process, plant and machine operatives",Aged 35 to 49 years,32894
+Wales,"Process, plant and machine operatives",Aged 50 to 64 years,41088
+Wales,"Process, plant and machine operatives",Aged 65 years and over,6273
+Wales,Elementary occupations,Aged 24 years and under,28145
+Wales,Elementary occupations,Aged 25 to 34 years,28251
+Wales,Elementary occupations,Aged 35 to 49 years,36690
+Wales,Elementary occupations,Aged 50 to 64 years,43795
+Wales,Elementary occupations,Aged 65 years and over,7101

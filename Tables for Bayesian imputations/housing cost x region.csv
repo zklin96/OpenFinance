@@ -1,0 +1,31 @@
+region,tenure_label,prop_mean,frequency
+North East,Own outright,0,399
+North East,Mortgage,0.136,337
+North East,Renter,0.13,470
+North West,Own outright,0,1179
+North West,Mortgage,0.137,952
+North West,Renter,0.193,1111
+Yorkshire & Humber,Own outright,0,842
+Yorkshire & Humber,Mortgage,0.14,739
+Yorkshire & Humber,Renter,0.193,820
+East Midlands,Own outright,0,829
+East Midlands,Mortgage,0.151,647
+East Midlands,Renter,0.216,640
+West Midlands,Own outright,0,930
+West Midlands,Mortgage,0.157,713
+West Midlands,Renter,0.166,859
+East,Own outright,0,1058
+East,Mortgage,0.177,805
+East,Renter,0.223,841
+London,Own outright,0,881
+London,Mortgage,0.177,925
+London,Renter,0.283,1915
+South East,Own outright,0,1459
+South East,Mortgage,0.175,1293
+South East,Renter,0.226,1202
+South West,Own outright,0,1031
+South West,Mortgage,0.173,785
+South West,Renter,0.204,745
+Wales,Own outright,0,507
+Wales,Mortgage,0.149,411
+Wales,Renter,0.130,438

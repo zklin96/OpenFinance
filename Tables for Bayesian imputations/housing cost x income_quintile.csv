@@ -1,0 +1,16 @@
+income quintile,tenure_label,prop_mean,frequency
+1,Own outright,0,1749
+1,Mortgage,0.41,403
+1,Renter,0.4434,2722
+2,Own outright,0,2101
+2,Mortgage,0.24,726
+2,Renter,0.29162,2058
+3,Own outright,0,2057
+3,Mortgage,0.21,1188
+3,Renter,0.2257,1639
+4,Own outright,0,1606
+4,Mortgage,0.17,2006
+4,Renter,0.19118,1273
+5,Own outright,0,1098
+5,Mortgage,0.13,2873
+5,Renter,0.16203,910

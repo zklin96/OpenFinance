@@ -1,0 +1,51 @@
+region,age group,income,Observation
+North East,Aged 24 years and under,"25,589",61
+North East,Aged 25 to 34 years,"34,068",132
+North East,Aged 35 to 49 years,"40,102",218
+North East,Aged 50 to 64 years,"39,583",160
+North East,Aged 65 years and over,"37,346",28
+North West,Aged 24 years and under,"26,504",187
+North West,Aged 25 to 34 years,"36,397",428
+North West,Aged 35 to 49 years,"43,494",698
+North West,Aged 50 to 64 years,"41,631",510
+North West,Aged 65 years and over,"39,026",79
+Yorkshire & Humber,Aged 24 years and under,"26,628",144
+Yorkshire & Humber,Aged 25 to 34 years,"35,004",322
+Yorkshire & Humber,Aged 35 to 49 years,"41,786",509
+Yorkshire & Humber,Aged 50 to 64 years,"41,058",383
+Yorkshire & Humber,Aged 65 years and over,"38,344",56
+East Midlands,Aged 24 years and under,"27,701",117
+East Midlands,Aged 25 to 34 years,"34,835",254
+East Midlands,Aged 35 to 49 years,"40,899",408
+East Midlands,Aged 50 to 64 years,"41,178",334
+East Midlands,Aged 65 years and over,"39,914",55
+West Midlands,Aged 24 years and under,"29,236",139
+West Midlands,Aged 25 to 34 years,"38,312",315
+West Midlands,Aged 35 to 49 years,"42,867",509
+West Midlands,Aged 50 to 64 years,"42,181",395
+West Midlands,Aged 65 years and over,"40,088",66
+East,Aged 24 years and under,"28,868",142
+East,Aged 25 to 34 years,"38,682",319
+East,Aged 35 to 49 years,"45,893",539
+East,Aged 50 to 64 years,"45,701",423
+East,Aged 65 years and over,"42,984",74
+London,Aged 24 years and under,"33,539",327
+London,Aged 25 to 34 years,"53,198",793
+London,Aged 35 to 49 years,"68,296","1,162"
+London,Aged 50 to 64 years,"78,455",628
+London,Aged 65 years and over,"77,000",102
+South East,Aged 24 years and under,"27,714",226
+South East,Aged 25 to 34 years,"38,391",541
+South East,Aged 35 to 49 years,"47,804",914
+South East,Aged 50 to 64 years,"48,346",713
+South East,Aged 65 years and over,"44,906",116
+South West,Aged 24 years and under,"25,812",137
+South West,Aged 25 to 34 years,"35,578",313
+South West,Aged 35 to 49 years,"42,609",509
+South West,Aged 50 to 64 years,"42,246",387
+South West,Aged 65 years and over,"40,138",62
+Wales,Aged 24 years and under,"26,704",71
+Wales,Aged 25 to 34 years,"34,173",168
+Wales,Aged 35 to 49 years,"40,276",284
+Wales,Aged 50 to 64 years,"39,007",218
+Wales,Aged 65 years and over,"37,748",34

@@ -1,0 +1,31 @@
+region,tenure label,frequency
+North East,Own outright,399
+North East,Mortgage,337
+North East,Renter,470
+North West,Own outright,1179
+North West,Mortgage,952
+North West,Renter,1111
+Yorkshire & Humber,Own outright,842
+Yorkshire & Humber,Mortgage,739
+Yorkshire & Humber,Renter,820
+East Midlands,Own outright,829
+East Midlands,Mortgage,647
+East Midlands,Renter,640
+West Midlands,Own outright,930
+West Midlands,Mortgage,713
+West Midlands,Renter,859
+East,Own outright,1058
+East,Mortgage,805
+East,Renter,841
+London,Own outright,881
+London,Mortgage,925
+London,Renter,1915
+South East,Own outright,1459
+South East,Mortgage,1293
+South East,Renter,1202
+South West,Own outright,1031
+South West,Mortgage,785
+South West,Renter,745
+Wales,Own outright,507
+Wales,Mortgage,411
+Wales,Renter,438
